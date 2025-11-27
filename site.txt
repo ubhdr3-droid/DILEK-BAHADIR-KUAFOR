@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dilek Bahadır Kuaför</title>
+<meta name="description" content="Dilek Bahadır Kuaför - Profesyonel saç tasarım, makyaj ve güzellik hizmetleri. WhatsApp üzerinden hızlı randevu alın.">
+<meta http-equiv="refresh" content="2; URL=https://wa.me/905313045927">
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom right, #b88cd8, #f7e6ff);
+        color: #333;
+        text-align: center;
+    }
+
+    .container {
+        padding: 30px 20px;
+    }
+
+    .logo-box img {
+        width: 280px;
+        border-radius: 10px;
+        box-shadow: 0 0 12px rgba(0,0,0,0.3);
+        margin-top: 10px;
+    }
+
+    h1 {
+        font-size: 30px;
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: #5b2c83;
+    }
+
+    .box {
+        background: white;
+        padding: 25px;
+        border-radius: 15px;
+        box-shadow: 0 0 12px rgba(0,0,0,0.1);
+        max-width: 400px;
+        margin: 25px auto;
+    }
+
+    .btn {
+        display: block;
+        padding: 15px;
+        background: #25d366;
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bold;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+
+    .insta {
+        background: #d62976;
+    }
+
+    p {
+        margin-top: 15px;
+        font-size: 16px;
+    }
+
+    .address {
+        margin-top: 25px;
+        font-size: 16px;
+        color: #4a2770;
+        font-weight: bold;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="logo-box">
+        <img src="images/logo-tabela.jpg" alt="Dilek Bahadır Kuaför Logo">
+    </div>
+
+    <h1>Dilek Bahadır Kuaför</h1>
+
+    <div class="box">
+        <p>WhatsApp'a yönlendiriliyorsunuz...</p>
+
+        <a class="btn" href="https://wa.me/905313045927">WhatsApp’tan Mesaj Gönder</a>
+        <a class="btn insta" href="https://www.instagram.com/dilek_hairmakeup?igsh=MWR4dG8xNXFxN3R1cQ==" target="_blank">Instagram Sayfamız</a>
+    </div>
+
+    <div class="address">
+        📍 Defne Sokak, 67900 Çaycuma / Zonguldak
+    </div>
+
+</div>
+
+</body>
+</html>
